@@ -35,4 +35,4 @@ To run this app locally:
 git clone https://github.com/aselya9185/mortgage_calculator_app.git
 cd mortgage_calculator_app
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run mortgage_calculator.py
